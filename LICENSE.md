@@ -1,4 +1,4 @@
-# 
+# VIP ESET NOD32 scripts for Mac OS | Automatic ESET NOD32 scripts for PC Windows. Featuring password generator and openvpn support — optimized for maximum performance on every platform.
 
 
 
